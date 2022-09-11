@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nkemakolamuko (N.K)
 - 👀 I’m interested in JavaScript,Python,Kotlin and C++
-- 🌱 I’m currently learning Kotlin,Python and XHTML.
+- 🌱 I’m currently learning Kotlin,JS,Python and XHTML.
 - 💞️ I’m looking to collaborate on (coming soon)
 - 📫 How to reach me (email: nwekevino99@gmail.com)
 
