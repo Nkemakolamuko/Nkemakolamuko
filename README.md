@@ -6,15 +6,6 @@ I believe in the power of collaboration and enjoy working in diverse teams, shar
 
 When I'm not coding, you can find me partaking in outdoor activities, and also capturing moments with my camera, or immersing myself in a captivating book. Ready to embark on an exciting coding adventure? Let's connect and build something amazing together! 
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @unclebay143" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!---
 Nkemakolamuko/Nkemakolamuko is an active constant learner because its `README.md` (this file) appears on your GitHub profile.
