@@ -6,6 +6,10 @@ I believe in the power of collaboration and enjoy working in diverse teams, shar
 
 When I'm not coding, you can find me partaking in outdoor activities, and also capturing moments with my camera, or immersing myself in a captivating book. Ready to embark on an exciting coding adventure? Let's connect and build something amazing together! 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkemakolamuko&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!---
 Nkemakolamuko/Nkemakolamuko is an active constant learner because its `README.md` (this file) appears on your GitHub profile.
