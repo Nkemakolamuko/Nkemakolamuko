@@ -10,6 +10,17 @@ When I'm not coding, you can find me partaking in outdoor activities, and also c
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=101292204" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101292204&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nkemakolamuko" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101292204&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!---
 Nkemakolamuko/Nkemakolamuko is an active constant learner because its `README.md` (this file) appears on your GitHub profile.
